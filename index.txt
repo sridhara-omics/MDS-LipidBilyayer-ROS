@@ -1,0 +1,18 @@
+OH radical:
+50ns_OH_0Field_5ns_snapshot.gro
+IDS:5720 to 5734
+5731 ID used for picture and MSD calculation.
+
+O2n ion:
+50ns_O2n_0Field_5ns_snapshot.gro
+IDS:5690 to 5704
+5699 ID used for picture and MSD calculation.
+5706 for NA.
+
+H2O2 species:
+50ns_HOOH_0Field_5ns_snapshot.gro
+IDS:5720 to 5734
+5723 ID used for picture and MSD calculation. (5723, 5731, 5728)
+
+
+
