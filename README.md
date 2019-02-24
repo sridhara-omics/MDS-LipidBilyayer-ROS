@@ -1,4 +1,4 @@
-# Reactive_Oxygen_Species
+# MD Simulations of Lipid Bilayers
 
 This repository contains only the processed output obtained from the molecular dynamics simulations run on a lipid bilayer with different ROS species.
 
